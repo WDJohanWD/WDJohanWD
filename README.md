@@ -1,5 +1,22 @@
 <h1 align="center"><b>Hi , I'm Johan Aponte </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## 👋 About Me  
+
+I'm a passionate software developer with some experience in both frontend and backend technologies.  
+I love building high-performance applications and continuously learning new technologies to improve my skills.  
+
+- 💻 Some experience in **full-stack development** with **React, Vue.js, Spring Boot, and Tailwind CSS**.  
+- 🔥 Enthusiastic about **clean code, best practices, and scalable architectures**.  
+- 🚀 Currently working on **a gym management platform with Spring Boot and React**.  
+- 🎯 Always open to **collaborations and exciting new projects**.  
+
+Let's connect and build something amazing!  
+
+
+### 🏋️‍♂️ Gym Management Platform  (Building)
+A web application for gym management, built with **Spring Boot** and **React**.  
+- 🏆 Features: User subscriptions, online content, and appointment scheduling.  
+- 🔗 [GitHub Repository](https://github.com/WDJohanWD/CultureFit)  
 
 ## My Skills Include
 <h4> Languages </h4>
@@ -7,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
