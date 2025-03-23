@@ -1,80 +1,89 @@
-<h1 align="center"><b>Hi , I'm Johan Aponte </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Johan Aponte! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 👋 About Me  
+👋 **About Me**  
 
-I'm a passionate software developer with some experience in both frontend and backend technologies.  
-I love building high-performance applications and continuously learning new technologies to improve my skills.  
+🚀 Passionate **Developer** with some experience in **React, Vue.js, Spring Boot, and Tailwind CSS**.  
+🔥 Enthusiastic about **clean code, best practices, and scalable architectures**.  
+🎯 Currently building **CultureFit**, a gym management platform using **Spring Boot & React**.  
+📚 Always learning new technologies & improving my coding skills.  
 
-- 💻 Some experience in **full-stack development** with **React, Vue.js, Spring Boot, and Tailwind CSS**.  
-- 🔥 Enthusiastic about **clean code, best practices, and scalable architectures**.  
-- 🚀 Currently working on **a gym management platform with Spring Boot and React**.  
-- 🎯 Always open to **collaborations and exciting new projects**.  
+---
 
-Let's connect and build something amazing!  
+### **📊 GitHub Stats**  
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDjohanWD&layout=compact&hide=TSQL&theme=rose" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=WDjohanWD&count_private=true&show_icons=true&&theme=rose&include_all_commits=true" height="180">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WDjohanWD&theme=rose" height="180">
+</div>
 
+---
 
-### 🏋️‍♂️ Gym Management Platform  (Building)
+### **🏋️‍♂️ Gym Management Platform - CultureFit (Building)**  
 A web application for gym management, built with **Spring Boot** and **React**.  
-- 🏆 Features: User subscriptions, online content, and appointment scheduling.  
-- 🔗 [GitHub Repository](https://github.com/WDJohanWD/CultureFit)  
+🛠️ Features: User subscriptions, online content, and appointment scheduling.  
+🔗 **[GitHub Repository](https://github.com/WDJohanWD/CultureFit)**  
 
-## My Skills Include
-<h4> Languages </h4>
+---
+
+## **🛠 My Skills**  
+
+### **💻 Languages**  
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img height="30" width="42" alt="JavaScript logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
+    <img height="30" width="42" alt="Python logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>
+    <img height="30" width="42" alt="Java logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
 </span>
 
-<h4> Frameworks </h4>
+### **🖥️ Frameworks & Libraries**  
 <span>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img height="30" width="42" alt="React logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"/>
+    <img height="30" width="42" alt="Vue.js logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg"/>
+    <img height="30" width="42" alt="Spring Boot logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg"/>
+    <img height="30" width="42" alt="Tailwind CSS logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img height="30" width="42" alt="Bootstrap logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg"/>
 </span>
 
-<h4> Databases </h4>
+### **📂 Databases**  
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img height="30" width="42" alt="MySQL logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/>
+    <img height="30" width="42" alt="MongoDB logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>
 </span>
 
-<h4> IDE </h4>
+### **🛠️ IDE & Tools**  
 <span>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+    <img height="30" width="42" alt="VS Code logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"/>
+    <img height="30" width="42" alt="IntelliJ IDEA logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg"/>
+    <img height="30" width="42" alt="NetBeans logo" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
 </span>
 
-<h4>Deployment & DevOps</h4>
+### **🚀 Deployment & DevOps**  
 <span>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
-
+    <img height="30" width="42" alt="Docker logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>
+    <img height="30" width="42" alt="NGINX logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg"/>
+    <img height="30" width="42" alt="Apache logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original.svg"/>
 </span>
 
-
-<h4> Other Tools and Technologies </h4>
+### **🛠️ Other Tools & Tech**  
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+    <img height="30" width="42" alt="Git logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
+    <img height="30" width="84" alt="XAMPP logo" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"/>
+    <img height="30" width="42" alt="Postman logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg"/>
+    <img height="30" width="42" alt="Swagger logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg"/>
+    <img height="30" width="42" alt="Notion logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg"/>
 </span>
 
+---
 
-<hr>
+## **🌱 What I'm Learning**  
+- 🔹 ...
+---
+
+## **📬 Let's Connect!**  
 <p align="center">
-   <i>Only those who embrace the depths can rise to the highest peaks.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/johan-aponte-6b74a8329/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailtowdjohanwd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
+<a href="https://www.linkedin.com/in/johan-aponte-6b74a8329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:wdjohanwd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+   <i>"Only those who embrace the depths can rise to the highest peaks."</i>
 </p>
