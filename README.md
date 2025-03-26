@@ -2,7 +2,7 @@
 
 👋 **About Me**  
 
-🚀 Passionate **Developer** with some experience in **React, Vue.js, Spring Boot, and Tailwind CSS**.  
+🚀 Passionate **Developer** with some experience in **React, Vue.js, Spring Boot/Java, and Python**.  
 🔥 Enthusiastic about **clean code, best practices, and scalable architectures**.  
 🎯 Currently building **CultureFit**, a gym management platform using **Spring Boot & React**.  
 📚 Always learning new technologies & improving my coding skills.  
@@ -66,19 +66,13 @@ A web application for gym management, built with **Spring Boot** and **React**.
 ### **🛠️ Other Tools & Tech**  
 <span>
     <img height="30" width="42" alt="Git logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
-    <img height="30" width="84" alt="XAMPP logo" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"/>
     <img height="30" width="42" alt="Postman logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg"/>
     <img height="30" width="42" alt="Swagger logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg"/>
     <img height="30" width="42" alt="Notion logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg"/>
+    <img height="30" width="90" alt="XAMPP logo" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"/>
 </span>
 
----
-
-## **🌱 What I'm Learning**  
-- 🔹 ...
----
-
-## **📬 Let's Connect!**  
+ ---
 <p align="center">
 <a href="https://www.linkedin.com/in/johan-aponte-6b74a8329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:wdjohanwd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
