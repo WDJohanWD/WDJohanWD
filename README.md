@@ -9,7 +9,7 @@
 
 ---
 
-### **📊 GitHub Stats**  
+**📊 GitHub Stats**  
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDjohanWD&layout=compact&hide=TSQL&theme=rose" height="180">
     <img src="https://github-readme-stats.vercel.app/api?username=WDjohanWD&count_private=true&show_icons=true&&theme=rose&include_all_commits=true" height="180">
@@ -18,59 +18,81 @@
 
 ---
 
-### **🏋️‍♂️ Gym Management Platform - CultureFit (Building)**  
+ **🏋️‍♂️ Gym Management Platform - CultureFit (Building)**  
 A web application for gym management, built with **Spring Boot** and **React**.  
 🛠️ Features: User subscriptions, online content, and appointment scheduling.  
 🔗 **[GitHub Repository](https://github.com/WDJohanWD/CultureFit)**  
 
 ---
 
+
+ **🏋️‍♂️ Personal Portfolio (Building)**  
+Portfolio web with all the projects, skills and information about me.  
+🔗 **[Portfolio link](https://wdjohanwd.github.io/portfolio_johan/)**  
+🔗 **[GitHub Repository](https://github.com/WDJohanWD/portfolio_johan)**  
+
+---
 ## **🛠 My Skills**  
 
-### **💻 Languages**  
-<span> 
-    <img height="30" width="42" alt="JavaScript logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/>
-    <img height="30" width="42" alt="Python logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/>
-    <img height="30" width="42" alt="Java logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg"/>
-</span>
+<p align="center">
+<table width="100%" border=0>
+  <tr align="center"  border=0>
+    <th colspan="4">💻 Languages</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="50" height="50"/></td>
+  </tr>
 
-### **🖥️ Frameworks & Libraries**  
-<span>
-    <img height="30" width="42" alt="React logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"/>
-    <img height="30" width="42" alt="Vue.js logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg"/>
-    <img height="30" width="42" alt="Spring Boot logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg"/>
-    <img height="30" width="42" alt="Tailwind CSS logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
-    <img height="30" width="42" alt="Bootstrap logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg"/>
-</span>
+  <tr align="center">
+    <th colspan="5">🖥️ Frameworks</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/></td>
+  </tr>
 
-### **📂 Databases**  
-<span>
-    <img height="30" width="42" alt="MySQL logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/>
-    <img height="30" width="42" alt="MongoDB logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>
-</span>
+  <tr align="center">
+    <th colspan="3">📂 Databases</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" width="50" height="50"/></td>
+  </tr>
 
-### **🛠️ IDE & Tools**  
-<span>
-    <img height="30" width="42" alt="VS Code logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"/>
-    <img height="30" width="42" alt="IntelliJ IDEA logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg"/>
-    <img height="30" width="42" alt="NetBeans logo" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
-</span>
+  <tr align="center">
+    <th colspan="4">🛠️ IDE & Tools</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" width="50" height="50"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" height="50"/></td>
+  </tr>
 
-### **🚀 Deployment & DevOps**  
-<span>
-    <img height="30" width="42" alt="Docker logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>
-    <img height="30" width="42" alt="NGINX logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg"/>
-    <img height="30" width="42" alt="Apache logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original.svg"/>
-</span>
+  <tr align="center">
+    <th colspan="4">🚀 Deployment</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original.svg" width="50" height="50"/></td>
+  </tr>
 
-### **🛠️ Other Tools & Tech**  
-<span>
-    <img height="30" width="42" alt="Git logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
-    <img height="30" width="42" alt="Postman logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg"/>
-    <img height="30" width="42" alt="Swagger logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg"/>
-    <img height="30" width="42" alt="Notion logo" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg"/>
-    <img height="30" width="90" alt="XAMPP logo" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg"/>
-</span>
+  <tr align="center">
+    <th colspan="5">🔧 Other Tools & Tech</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" width="50" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" width="50" height="50"/></td>
+  </tr>
+</table>
+</p>
+
 
  ---
 <p align="center">
