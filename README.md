@@ -18,7 +18,7 @@
 
 ---
 
- **🏋️‍♂️ Gym Management Platform - CultureFit (Building)**  
+ **🏋️‍♂️ Gym Management Platform - CultureFit (Ongoing)**  
 A web application for gym management, built with **Spring Boot** and **React**.  
 🛠️ Features: User subscriptions, online content, and appointment scheduling.  
 🔗 **[GitHub Repository](https://github.com/WDJohanWD/CultureFit)**  
@@ -26,7 +26,7 @@ A web application for gym management, built with **Spring Boot** and **React**.
 ---
 
 
- **🏋️‍♂️ Personal Portfolio (Building)**  
+ **🏋️‍♂️ Personal Portfolio (Ongoing)**  
 Portfolio web with all the projects, skills and information about me.  
 🔗 **[Portfolio link](https://wdjohanwd.github.io/portfolio_johan/)**  
 🔗 **[GitHub Repository](https://github.com/WDJohanWD/portfolio_johan)**  
