@@ -3,7 +3,6 @@
 👋 **About Me**  
 
 🚀 Passionate **Developer** with some experience in **React, Vue.js, Spring Boot/Java, and Python**.  
-🔥 Enthusiastic about **clean code, best practices, and scalable architectures**.  
 🎯 Currently building **CultureFit**, a gym management platform using **Spring Boot & React**.  
 📚 Always learning new technologies & improving my coding skills.  
 
@@ -11,7 +10,6 @@
 
 **📊 GitHub Stats**  
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDjohanWD&layout=compact&hide=TSQL&theme=rose" height="180">
     <img src="https://github-readme-stats.vercel.app/api?username=WDjohanWD&count_private=true&show_icons=true&&theme=rose&include_all_commits=true" height="180">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=WDjohanWD&theme=rose" height="180">
 </div>
@@ -26,7 +24,7 @@ A web application for gym management, built with **Spring Boot** and **React**.
 ---
 
 
- **🏋️‍♂️ Personal Portfolio (Ongoing)**  
+ **🏋️‍♂️ Personal Portfolio**  
 Portfolio web with all the projects, skills and information about me.  
 🔗 **[Portfolio link](https://wdjohanwd.github.io/portfolio_johan/)**  
 🔗 **[GitHub Repository](https://github.com/WDJohanWD/portfolio_johan)**  
