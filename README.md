@@ -94,7 +94,7 @@ Portfolio web with all the projects, skills and information about me.
 
  ---
 <p align="center">
-<a href="https://www.linkedin.com/in/johan-aponte-6b74a8329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/johan-aponte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:wdjohanwd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://wdjohanwd.github.io/portfolio_johan/" > <img  src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></img></a>
 </p>
